@@ -1,5 +1,6 @@
 # HandwrittenDigitRecognizer
 This is an application that recognizes a hand-written digit using several algorithms.
+![HandwrittenDigitRecognizer](https://github.com/altescy/HandwrittenDigitRecognizer/blob/master/screenshot.png)
 
 ## Requirement
 - Python 2.7.11
