@@ -1,7 +1,7 @@
 # HandwrittenDigitRecognizer
 ![HandwrittenDigitRecognizer](https://github.com/altescy/HandwrittenDigitRecognizer/blob/master/screenshot.png)
 
-This is an application that recognizes a hand-written digit using several algorithms.
+This is an application that recognizes a hand-written digit using several algorithms.<br>
 Extract models/svm_mnist28x28.7z when using this application.
 
 ## Requirement
