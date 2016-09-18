@@ -3,7 +3,7 @@ This is an application that recognizes a hand-written digit using several algori
 
 ## Requirement
 - Python 2.7.11
-- numpy
+- NumPy
 - PyQt4
 - Chainer 1.12.0
 - scikit-learn
